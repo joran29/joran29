@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### I'm Jovana!
 
-If you'd like to see what I'm up to - please check out my [GitLab](https://gitlab.com/JoRan29) profile! ⚡
+I'm also on [GitLab](https://gitlab.com/JoRan29) and [LinkedIn](https://www.linkedin.com/in/jovanarandjelovic) - feel free to check out my profiles! ⚡
 <!--
 **JoRan29/JoRan29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
