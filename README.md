@@ -1,6 +1,8 @@
 ### Hi there 👋
 ### I'm Jovana!
 
+Get to know me better [Here](https://jovana-is-a-dev.netlify.app)! 🌎
+
 I'm also on [GitLab](https://gitlab.com/JoRan29) and [LinkedIn](https://www.linkedin.com/in/jovanarandjelovic) - feel free to check out my profiles! ⚡
 <!--
 **JoRan29/JoRan29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
